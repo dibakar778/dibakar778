@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a B.TECH CSE Student <br>🌱 I’m currently learning Front-end Development<br>⚡ I have a deep love for Tech-section<br>I love to play cricket, listening music
+🔭 I’m currently a B.TECH CSE Student <br>🌱 I’m currently a Full-Stack Developer <br>⚡ I have a deep love for Tech-section<br>I love to play cricket, listening music
 
 
 ## 🌐 Socials:
